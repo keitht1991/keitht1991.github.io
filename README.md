@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+﻿## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/keitht1991/keitht1991.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,7 +18,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
+1. Numbera
 2. List
 
 **Bold** and _Italic_ and `Code` text
